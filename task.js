@@ -1,4 +1,4 @@
-// /task1/
+/// task1/
 // let num =4567;
 //  count=0;
 // for (let i=num;i>=1;i/=10) {
@@ -11,7 +11,8 @@
 //  }
 
 
-// task2//
+// //task2//
+
 // for (let i = 1; i < 1000; i++) {
 //   let number = i;
 //   let sum = 0;
@@ -24,6 +25,7 @@
 //   }
 // }
 
+// task4//
 
 // let En = 100;
 // let H = 200;
@@ -46,7 +48,7 @@
 //   console.log("kecmez");
 // }
 
-
+//  task5//
 // let Number=35;
 // let lastNumber = Number % 10;
 // switch (lastNumber) {
@@ -74,23 +76,52 @@
 //     default:
 //         console.log("false");
 // }
-
+//  task3
 // let a = 4565;
-// // let b = 67854;
-// // if (a >= 1000 && a<=9999) {
-// //     sub1 = (a / 100) * 4
-// //     if (b >=1000000 && b<=9999999) {
-// //         sub2 = (b / 100) * 9
-// //         hesab = (sub1 + sub2) / 10
-// //         console.log(hesab);
-// //     }
-// //     else {
+// let b = 67854;
+// if (a >= 1000 && a<=9999) {
+//     sub1 = (a / 100) * 4
+//     if (b >=1000000 && b<=9999999) {
+//         sub2 = (b / 100) * 9
+//         hesab = (sub1 + sub2) / 10
+//         console.log(hesab);
+//     }
+//     else {
 //          console.log("a 4reqemli eded deyil");
-// //         
-// //     }
-// // }
-// // else {
-// //     console.log("b 7reqemli eded deyil");
-// // }
+//         
+//     }
+// }
+// else {
+//     console.log("b 7reqemli eded deyil");
+// }
+
+// task6//
+
+// let eded1 = 15;
+// let eded2 = 30;
+// let eded3 = 58;
+// let eded4 = 45;
+// let eded5 = 24;
+// let eded6 = 78;
+
+
+// let enBoyuk = eded1;
+// if (eded2 > enBoyuk) {
+//     enBoyuk = eded2;
+// }
+// if (eded3 > enBoyuk) {
+//     enBoyuk = eded3;
+// }
+// if (eded4 > enBoyuk) {
+//     enBoyuk = eded4;
+// }
+// if (eded5 > enBoyuk) {
+//     enBoyuk = eded5;
+// }
+// if (eded6 > enBoyuk) {
+//     enBoyuk = eded6;
+// }
+
+// console.log("en böyük eded", enBoyuk);
 
  
